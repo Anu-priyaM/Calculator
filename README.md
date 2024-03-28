@@ -1,2 +1,2 @@
-# Calculator
-This is my first project on github.
+#Calculator:Python Math Wizard
+
